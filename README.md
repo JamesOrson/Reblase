@@ -13,7 +13,7 @@ The production website for Reblase is accessible at [https://reblase.sibr.dev](h
 
 1. `cd Reblase` to go into the project root
 1. `yarn` to install the JavaScript dependencies
-1. Inside the `Reblase/reblase` directory, make a copy of `.env.sample` and name it `.env.local`
+1. Inside `Reblase/reblase/src` directory there is the file `.env.sample`. Copy it to `Reblase/reblase` and name it `.env.local`
 
 ### Running Locally
 
